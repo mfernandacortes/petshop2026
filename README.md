@@ -30,3 +30,14 @@ Sistema de e-commerce para personalización y pedido de medallas para mascotas.
 5. Acceder por `http://localhost/_activos/_petshop_renovado2026/`
 
 ## Estructura
+
+├── admin/              # Panel de administración
+├── config/             # Configuración de base de datos
+├── controllers/        # Lógica de negocio
+├── models/             # Modelos de datos
+├── views/              # Vistas HTML/PHP
+└── public/             # Imágenes y assets
+
+## Estado
+
+En desarrollo — próximas funcionalidades: CRUD de productos, módulo de clientes, mail de confirmación, login de admin.
