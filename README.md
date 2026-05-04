@@ -20,6 +20,9 @@ Sistema de e-commerce para personalización y pedido de medallas para mascotas.
 - Cálculo automático de total al confirmar
 - Panel de administración con dashboard y gestión de pedidos
 - Vista de detalle de pedido estilo invoice con datos del cliente e items
+- Login de admin con sesión protegida
+- CRUD de productos con activar/desactivar
+- Módulo de clientes en admin
 
 ## Cómo ejecutar
 
@@ -40,4 +43,4 @@ Sistema de e-commerce para personalización y pedido de medallas para mascotas.
 
 ## Estado
 
-En desarrollo — próximas funcionalidades: CRUD de productos, módulo de clientes, mail de confirmación, login de admin.
+Funcional — flujo completo de cliente y admin operativos.
